@@ -1,7 +1,13 @@
 # SEC290 WilmU Python Class
 My SEC290 Python Class Notes, and programs.<BR />
 These are broken down by weeks.<BR />
-
+Week 1: Formatting text<BR />
+Week 2:<BR />
+Week 3:<BR />
+Week 4:<BR />
+Week 5:<BR />
+Week 6:<BR />
+Week 7: <BR />
 Created by: Brad Voris<BR />
 <img alt="GitHub" src="https://img.shields.io/github/license/bvoris/sec290pythonclass">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/sec290pythonclass">
