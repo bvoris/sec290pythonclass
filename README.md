@@ -5,8 +5,8 @@ Week 1: Formatting text<BR />
 Week 2: Data Types, Lists, Loops, Tuples<BR />
 Week 3: If Loops, syntax errors, logic errors and debugging<BR />
 Week 4: Test for valid input<BR />
-Week 5:<BR />
-Week 6:<BR />
+Week 5: Functions, modules, docstrings<BR />
+Week 6: <BR />
 Week 7: <BR />
 Created by: Brad Voris<BR />
 <img alt="GitHub" src="https://img.shields.io/github/license/bvoris/sec290pythonclass">
