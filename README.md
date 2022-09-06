@@ -1,4 +1,4 @@
-# SEC290 WilmU Python Class
+# SEC290 Python Class Notes
 My SEC290 Python Class Notes, and programs.<BR />
 These are broken down by weeks.<BR />
 Week 1: Formatting text<BR />
