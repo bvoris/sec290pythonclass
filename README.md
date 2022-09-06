@@ -4,7 +4,7 @@ These are broken down by weeks.<BR />
 Week 1: Formatting text<BR />
 Week 2: Data Types, Lists, Loops, Tuples<BR />
 Week 3: If Loops, syntax errors, logic errors and debugging<BR />
-Week 4:<BR />
+Week 4: Test for valid input<BR />
 Week 5:<BR />
 Week 6:<BR />
 Week 7: <BR />
