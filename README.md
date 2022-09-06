@@ -2,8 +2,8 @@
 My SEC290 Python Class Notes, and programs.<BR />
 These are broken down by weeks.<BR />
 Week 1: Formatting text<BR />
-Week 2:<BR />
-Week 3:<BR />
+Week 2: Data Types, Lists, Loops, Tuples<BR />
+Week 3: If Loops, syntax errors, logic errors and debugging<BR />
 Week 4:<BR />
 Week 5:<BR />
 Week 6:<BR />
