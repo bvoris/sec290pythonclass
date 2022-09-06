@@ -1,5 +1,6 @@
-# sec290pythonclass
-My SEC290 Python Class Notes
+# SEC290 WilmU Python Class
+My SEC290 Python Class Notes, and programs.<BR />
+These are broken down by weeks.<BR />
 
 Created by: Brad Voris<BR />
 <img alt="GitHub" src="https://img.shields.io/github/license/bvoris/sec290pythonclass">
