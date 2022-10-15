@@ -1,0 +1,3 @@
+hello there tell me about the wonderful world of python programmming.
+What an amazing journey this as been and its nearly come to its end.
+Hopefully you've learned something from this Python class.

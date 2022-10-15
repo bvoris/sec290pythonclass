@@ -1,0 +1,186 @@
+Attempt History
+Attempt	Time	Score
+LATEST	Attempt 1	17 minutes	100 out of 100
+Score for this attempt: 100 out of 100
+Submitted Oct 5 at 4:07pm
+This attempt took 17 minutes.
+ 
+Question 1
+5 / 5 pts
+Lines read from a text file
+  are written as they are read. 
+  are deleted from the file as they are read. 
+Correct!
+  include trailing line breaks. 
+  are superfluous. 
+ 
+Question 2
+5 / 5 pts
+How can data be written to a file so that it replaces the existing contents?
+Correct!
+  By setting the mode parameter in the open statement to "w".
+  By setting the mode parameter in the open statement to "a".
+  By using the replace() command. 
+  By using the writeOver() command. 
+ 
+Question 3
+5 / 5 pts
+What command reads just 5 characters from a text file?
+Correct!
+  stuff = text_file.read(5) 
+  stuff = read.textfile(5) 
+  stuff = text_file.seek(5) 
+  stuff = text_file.readline(5) 
+ 
+Question 4
+5 / 5 pts
+What happens if you write lines of text to a file without including the line breaks?
+  Python automatically adds a line break to each line. 
+Correct!
+  The file will consist of a single long line of text. 
+  A LineBounds exception will be thrown. 
+  The result will be a syntax error. 
+ 
+Question 5
+5 / 5 pts
+What do text files consist of?
+  Binary data 
+Correct!
+  Lines of text characters (e.g. ASCII or UTF-8) ending in a line break 
+  Decimal numbers 
+  Machine language 
+ 
+Question 6
+5 / 5 pts
+What must happen before a text file can be read or written.
+  The file must be deleted. 
+Correct!
+  The open() command must be called. 
+  The file name extension must be changed to '.py'.
+  The for loop must terminate. 
+ 
+Question 7
+5 / 5 pts
+What command can be used to automatically close a file after it has been read or written?
+Correct!
+  with 
+  autoclose() 
+  for 
+  readlines() 
+ 
+Question 8
+5 / 5 pts
+How can an entire text file be read into a string?
+  It is not possible to do so. Files must be read one line at a time. 
+  By using the stringMe() command. 
+  By using the seek() command. 
+Correct!
+  by using the read() command with no parameters. 
+ 
+Question 9
+5 / 5 pts
+ How can you read a text file one line at a time?
+  By using the read() command with no parameters. 
+  By specifying "o" as the mode parameter in the open() command.
+  By using the singleLine() string method. 
+Correct!
+  By using the file object variable as the sequence in a for loop command. 
+ 
+Question 10
+5 / 5 pts
+What should you do after you are done reading or writing the file?
+  Nothing. Kick back and relax. 
+  Verify the file integrity. 
+Correct!
+  Close the file. 
+  Store the file contents in memory. 
+ 
+Question 11
+5 / 5 pts
+When a line is written to a text file
+  it is automatically deleted from memory. 
+  it cannot be saved because text files cannot be written. 
+  a trailing line break is not allowed. 
+Correct!
+  a trailing line break must be included. 
+ 
+Question 12
+5 / 5 pts
+How can data be written to the end of a text file?
+  By setting the mode parameter in the open statement to "w".
+  By using the append() method. 
+  By using the writeAppend() command. 
+Correct!
+  By setting the mode parameter in the open statement to "a".
+ 
+Question 13
+5 / 5 pts
+A text file consists of
+Correct!
+  a sequence of lines. 
+  an unordered collection of lines. 
+  one continuous line. 
+  a single line break. 
+ 
+Question 14
+5 / 5 pts
+What does the strip method do?
+  strip() removes unwanted comments. 
+  strip() removes code bloat. 
+Correct!
+  strip() removes unwanted characters from the beginning and end of a string. 
+  strip() adds a strip of border characters to a string. 
+ 
+Question 15
+5 / 5 pts
+If no parameter is provided to split() what happens?
+  split() will not work. 
+Correct!
+  split() defaults to using a space as the delimiter for dividing the string. 
+  split() joins the string instead of splitting it. 
+  split() defaults to using a comma as a delimiter for dividing the string. 
+ 
+Question 16
+5 / 5 pts
+What does line.split(";")
+Correct!
+  separates the string contained in line at every occurrence of semi-colon 
+  separates the string contained in line at every occurrence of comma 
+  separates the string contained in line at the first occurrence of a comma 
+  concatenates a semi-colon to the end of the string contained in line. 
+ 
+Question 17
+5 / 5 pts
+The Python split method can be used to
+Correct!
+  separate values in a string into individual variables 
+  join variables into a line of text 
+  remove white space from the start and end of a string 
+  access the key of a dictionary 
+ 
+Question 18
+5 / 5 pts
+What does split() do?
+Correct!
+  split() slices a string into many pieces. 
+  split() exits the program. 
+  split() concatenates many slices into a single string. 
+  split() loops through a string until all characters are processed. 
+ 
+Question 19
+5 / 5 pts
+What does JSON stand for?
+Correct!
+  Javascript Object Notation 
+  Jython Structured Object Notation 
+  Jason's Super Obtuse Negativity 
+  JPEG Storage Origination Namespace 
+ 
+Question 20
+5 / 5 pts
+What is the file extension typically used with JSON files?
+Correct!
+  '.json' 
+  '.txt' 
+  '.csv' 
+  '.jsn' 

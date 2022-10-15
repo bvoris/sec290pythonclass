@@ -1,0 +1,10 @@
+From https://docs.python.org/3/library/time.html
+
+    The epoch is the point where the time starts, and is platform dependent. For Unix, the epoch is January 1, 1970, 00:00:00 (UTC).
+To find out what the epoch is on a given platform, look at time.gmtime(0).
+
+    The term seconds since the epoch refers to the total number of elapsed seconds since the epoch, typically excluding leap seconds.
+Leap seconds are excluded from this total on all POSIX-compliant platforms.
+
+    The functions in this module may not handle dates and times before the epoch or far in the future. The cut-off point in the future
+is determined by the C library; for 32-bit systems, it is typically in 2038.
