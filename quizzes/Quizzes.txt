@@ -1,0 +1,760 @@
+WEEK 1
+--------------------------------------------------------------------------------------------------------
+Question 1
+5 / 5 pts
+Which of the following variable names does not follow best practices.
+  Width 
+ 
+Question 2
+5 / 5 pts
+How can individual characters of a string be accessed?
+  using an index 
+
+Question 3
+5 / 5 pts
+How is user input provided to the program?
+  it is returned by the input() function and stored in a variable using the assignment operator 
+ 
+Question 4
+5 / 5 pts
+The Python programming language became available in what year?
+  1991 
+ 
+Question 5
+5 / 5 pts
+Thonny can best be described as
+  an Integrated Development Environment for Python 
+ 
+Question 6
+5 / 5 pts
+What is the name of the function used to display text to the user?
+  print() 
+ 
+Question 7
+5 / 5 pts
+What is a string?
+  a sequence of text characters 
+ 
+Question 8
+5 / 5 pts
+Given that some_var has the string "Whatever" in it, what does print(some_var[1]) display?
+  h 
+
+ 
+Question 9
+5 / 5 pts
+Syntax highlighting in an IDE such as Thonny
+  helps identify syntax problems using colors 
+ 
+Question 10
+5 / 5 pts
+Given that some_var has the string "Whatever" in it, what does print(some_var[0]) display?
+  W 
+ 
+Question 11
+5 / 5 pts
+What does print(some_var.upper()) display?
+  the string contained in some_var in all upper case characters 
+  
+Question 12
+5 / 5 pts
+What data type is used for text characters?
+  string 
+ 
+Question 13
+5 / 5 pts
+What does the '^' symbol do in a format string specifier?
+  it causes the text value to be displayed center justified 
+
+ 
+Question 14
+5 / 5 pts
+What identifies the start of a format specifier the curly braces of an f-string?
+  parentheses 
+ 
+Question 15
+5 / 5 pts
+What data type does the input() function return?
+  string 
+ 
+Question 16
+5 / 5 pts
+What function is used to get user input in Python3?
+  input() 
+ 
+Question 17
+5 / 5 pts
+What is the purpose of curly braces inside an f-string?
+  includes a variable name for string interpolation 
+ 
+Question 18
+5 / 5 pts
+"As opposed to programs you write yourself in Python, commercial off the shelf programs"
+   Can only do what they were designed to do 
+  
+Question 19
+5 / 5 pts
+Which of the following is not a legal variable name.
+  2much 
+  
+Question 20
+5 / 5 pts
+Programmers can indicate that a variable is meant to be a constant by
+  using all upper case letters in the name 
+ 
+WEEK 2
+--------------------------------------------------------------------------------------------------------
+Question 1
+5 / 5 pts
+Which is true about list and tuple methods?
+  Lists have many methods whereas tuples have very few. 
+ 
+Question 2
+5 / 5 pts
+What makes a tuple different than a list?
+  A tuple is immutable whereas a list is not. 
+ 
+Question 3
+5 / 5 pts
+What does the for statement do at the beginning of each iteration of the loop?
+  It takes the next item in the sequence and stores it in the for loop variable.
+ 
+Question 4
+5 / 5 pts
+What is a sequence?
+  A sequence is an unordered collection of items. 
+ 
+Question 5
+5 / 5 pts
+How is the body of a for loop defined?
+  The body of a for loop is defined by an indented block of code following the for statement. 
+ 
+Question 6
+5 / 5 pts
+Which of the following is an example of a sequence that might be used in a for statement?
+  A list 
+ 
+Question 7
+5 / 5 pts
+What is a list index?
+  It is the offset of an element from the beginning of the list. The first item in the list has an index of 0. 
+ 
+Question 8
+5 / 5 pts
+How can a particular value be deleted from a list.
+  By using the remove() list method. 
+ 
+Question 9
+5 / 5 pts
+What is true about a list?
+  A list is a variable that may contain more than one value at the same time. 
+ 
+Question 10
+5 / 5 pts
+How can elements be deleted from a list?
+  By using the del statement. 
+ 
+Question 11
+5 / 5 pts
+In Python, which of the following symbols is used for modulo?
+  % 
+ 
+Question 12
+5 / 5 pts
+Header comments
+Correct!
+  Often provide useful information about the author of the program, the date and its purpose 
+  Are not allowed 
+  Cannot be viewed via IDLE 
+  Are frowned upon by most organizations 
+ 
+Question 13
+5 / 5 pts
+What does int(g) mean?
+  int converts the value in g from a string to a whole number. 
+ 
+Question 14
+5 / 5 pts
+What symbol is used to create a comment in Python?
+  # 
+ 
+Question 15
+5 / 5 pts
+Data is represented in computer memory as
+  ones and zeros 
+
+ 
+Question 16
+5 / 5 pts
+Comments in code
+  Are ignored by Python 
+ 
+Question 17
+5 / 5 pts
+What does 'num = 5' do?
+  sets the value of num to 5 
+ 
+Question 18
+5 / 5 pts
+Indents in Python code
+  matter 
+ 
+Question 19
+5 / 5 pts
+Which symbol is used as the string concatenation operator?
+  + 
+ 
+Question 20
+5 / 5 pts
+In Python, which of the symbols below is used for multiplication?
+  * 
+
+WEEK 3
+--------------------------------------------------------------------------------------------------------
+
+Question 1
+5 / 5 pts
+What statement can be used to skip the remaining lines of code in a for or while loop and return to the top of the loop?
+  continue 
+ 
+Question 2
+5 / 5 pts
+What determines which lines of code belong to a while loop?
+  The lines of code beneath the while statement that are indented. 
+ 
+Question 3
+5 / 5 pts
+What happens if the condition in a while statement is False?
+  The while loop exits. 
+
+ 
+Question 4
+5 / 5 pts
+When is a while loop the most appropriate choice when code in your program needs to be repeated?
+  When the number of times the loop needs to run is not known in advance. 
+ 
+Question 5
+5 / 5 pts
+What is it called when the condition for a while statement is always True?
+  An infinite loop. 
+
+ 
+Question 6
+5 / 5 pts
+How many times can a while loop run?
+  0 or more times. 
+ 
+Question 7
+5 / 5 pts
+Where should the initial condition for a while loop be set?
+  The initial condition needs to be set up before the while loop statement. 
+
+ 
+Question 8
+0 / 5 pts
+Assuming break statements are not used, what has to happen for a while loop to exit?
+  The while loop condition must become False. 
+ 
+Question 9
+5 / 5 pts
+What does the 'and' Boolean operator do?
+  It compares two conditions. Only if both are True is the result True 
+
+ 
+Question 10
+5 / 5 pts
+What can happen if you don't indent your code properly in Python?
+  Your code may run but produce unexpected results.
+ 
+Question 11
+5 / 5 pts
+What does the statement 'guess == 5' do?
+  tests for equality, resulting in True when guess is equal to 5 
+ 
+Question 12
+5 / 5 pts
+Which of the following is NOT a conditional operator?
+  = 
+
+ 
+Question 13
+5 / 5 pts
+What does 'num > 5' test for?
+  the value in num is greater than 5 
+
+ 
+Question 14
+5 / 5 pts
+How does Python know which code needs to be executed on the true path of an if/else statement?
+  All the code that is indented under the 'if' and before the 'else' is in the true path
+
+ 
+Question 15
+5 / 5 pts
+A condition in an if-statement can evaluate to what possible conditions?
+  either True or False 
+
+ 
+Question 16
+5 / 5 pts
+How does Python know which code needs to be executed on the false path of an if/else statement?
+  All the code that is indented under the 'else' is in the false path
+
+Question 17
+5 / 5 pts
+What does '==' mean?
+  is equal to 
+ 
+Question 18
+5 / 5 pts
+What does the 'not' Boolean operator do?
+  It flips the Boolean value of an expression from True to False or False to True. 
+
+ 
+Question 19
+5 / 5 pts
+What is a logic error?
+  an error in which the program runs but behaves in an unexpected manner 
+
+ 
+Question 20
+5 / 5 pts
+What is a run time exception?
+  This is an error that is detected while the program is running, such as an attempt to divide by zero 
+
+
+WEEK 4
+-------------------------------------------------------------------------------------------------------- 
+Question 1
+5 / 5 pts
+How do you access a value within a dictionary?
+  Using square brackets and a key. 
+ 
+Question 2
+5 / 5 pts
+How are values added to a dictionary?
+  By using square brackets, a key and the assignment operator. 
+ 
+Question 3
+5 / 5 pts
+What happens if you try to access a value in the dictionary using a key that does not exist?
+  An exception is thrown 
+ 
+Question 4
+5 / 5 pts
+An item in a dictionary is described as a(an)
+  key-value pair 
+
+ 
+Question 5
+5 / 5 pts
+How does the dictionary data structure get its name?
+  Just as a word is paired with a definition in a physical dictionary, a key and a value are paired in the dictionary data structure. 
+
+ 
+Question 6
+5 / 5 pts
+What happens if a key already exists in the dictionary and an attempt is made to store a new value using the same key?
+  The original value is replaced by the new value. 
+
+ 
+Question 7
+5 / 5 pts
+What does the keys() dictionary method do?
+  It produces an object with a list of keys in the dictionary. 
+ 
+Question 8
+5 / 5 pts
+How can the items() dictionary method be used in a for loop statement?
+  With each iteration of the for loop, the key is copied into one for loop variable and the value is copied into another.
+ 
+Question 9
+5 / 5 pts
+Which of the following data types may be values in a dictionary?
+  any of these 
+ 
+Question 10
+5 / 5 pts
+What code should be placed inside an except block?
+  Just the code to handle an exception should one be thrown. 
+
+ 
+Question 11
+5 / 5 pts
+What happens if your program does not catch an exception?
+  The system catches the exception and the program terminates immediately 
+
+ 
+Question 12
+5 / 5 pts
+What does the term, "throw an exception" refer to?
+  It means that the normal execution of code has been disrupted by an error condition. 
+ 
+Question 13
+5 / 5 pts
+If an exception is thrown in a try block, what happens next?
+  Execution jumps immediately to the except block. 
+
+ 
+Question 14
+5 / 5 pts
+What is the purpose of the 'else' clause in a try/except construct?
+  It holds code that should only execute when an exception has not been thrown 
+
+ 
+Question 15
+5 / 5 pts
+What can you do to prevent run-time exceptions from crashing your program?
+  Implement try/except blocks anywhere a runtime exception might be possible. 
+ 
+Question 16
+5 / 5 pts
+What kind of exception is thrown when when a value cannot be converted, such as trying to use int() to convert "Harry" to a number?
+  ValueError 
+
+ 
+Question 17
+5 / 5 pts
+How much of the code in the except block is executed if no exception is thrown?
+  None of the code in the except block executes. 
+
+ 
+Question 18
+5 / 5 pts
+The randint function is part of the random module. Given the following import statement, how would you call randint?
+
+from random import randint
+	value = randint(1,10)
+  
+
+ 
+Question 19
+5 / 5 pts
+The randint function is part of the random module. Given the following import statement, how would the randint function be called:
+	value = randint(1,10)
+
+ 
+Question 20
+5 / 5 pts
+If you wanted to refer to the randint function of the random module as rint, which import statement would you use?
+	from random import randint as rint
+
+WEEK 5
+-------------------------------------------------------------------------------------------------------- 
+
+Question 1
+0 / 5 pts
+Which selection below best answers the question, "How many parameters can a function have?"
+  zero or more 
+ 
+Question 2
+5 / 5 pts
+When is the body of a function executed?
+  When the function is called 
+
+ 
+Question 3
+5 / 5 pts
+Which of the following function definitions is syntactically correct?
+  def my_function(parm1, parm2): 
+
+ 
+Question 4
+5 / 5 pts
+Which of the following statements are true about functions?
+  Functions are a means to re-use code 
+ 
+Question 5
+5 / 5 pts
+What are the guidelines for choosing a function name?
+  Follow the same rules and best practices used for variable names 
+ 
+Question 6
+5 / 5 pts
+What value is returned from a function that does not have a return statement?
+  The None value, which is a keyword in Python indicating the absense of a value. 
+ 
+Question 7
+5 / 5 pts
+What happens when a function is called?
+  Program execution jumps to the function definition and executes the code in the function body. 
+ 
+Question 8
+5 / 5 pts
+What keyword is used to create a function?
+  def 
+ 
+Question 9
+5 / 5 pts
+What is true about the parameters of a function?
+  The order in which the parameters are defined matters. 
+ 
+Question 10
+5 / 5 pts
+What is the best way to reuse lines of code?
+  Define them once within a function and then call the function as needed 
+ 
+Question 11
+5 / 5 pts
+The int() function is an example of a
+  built-in function 
+ 
+Question 12
+5 / 5 pts
+With positional parameters
+  order matters. 
+ 
+Question 13
+0 / 5 pts
+When including a default keyword parameter in your function
+  it must appear before any positional parameters. 
+ 
+Question 14
+5 / 5 pts
+Which of the following statements is true about functions?
+  None of the above 
+ 
+Question 15
+5 / 5 pts
+How is a function called?
+  By providing the name of the function followed by a set of parentheses in which there may be zero or more arguments. 
+ 
+Question 16
+5 / 5 pts
+In order to import a module you have created
+  simply use the name of the program file in the import statement, without the '.py' extension. 
+ 
+Question 17
+5 / 5 pts
+In order create a module
+  create a program file with a '.py' extension, just like any other Python program. 
+ 
+Question 18
+5 / 5 pts
+Storing your functions in a separate file
+  allows you to re-use your functions in many different programs. 
+ 
+Question 19
+5 / 5 pts
+Which is true about the use of the global statement?
+  global statements should be avoided because using them can lead to hard-to-find bugs in your program.
+ 
+Question 20
+5 / 5 pts
+What does a global statement do inside a function?
+  It tells Python not to create a new local variable and instead to use the global variable in an assignment statement. 
+
+
+WEEK 6
+-------------------------------------------------------------------------------------------------------- 
+Question 1
+5 / 5 pts
+Lines read from a text file
+  include trailing line breaks. 
+
+ 
+Question 2
+5 / 5 pts
+How can data be written to a file so that it replaces the existing contents?
+  By setting the mode parameter in the open statement to "w".
+
+ 
+Question 3
+5 / 5 pts
+What command reads just 5 characters from a text file?
+  stuff = text_file.read(5) 
+
+ 
+Question 4
+5 / 5 pts
+What happens if you write lines of text to a file without including the line breaks?
+  The file will consist of a single long line of text. 
+ 
+Question 5
+5 / 5 pts
+What do text files consist of?
+  Lines of text characters (e.g. ASCII or UTF-8) ending in a line break 
+ 
+Question 6
+5 / 5 pts
+What must happen before a text file can be read or written.
+  The open() command must be called. 
+ 
+Question 7
+5 / 5 pts
+What command can be used to automatically close a file after it has been read or written?
+  with 
+ 
+Question 8
+5 / 5 pts
+How can an entire text file be read into a string?
+  by using the read() command with no parameters. 
+ 
+Question 9
+5 / 5 pts
+ How can you read a text file one line at a time?
+  By using the file object variable as the sequence in a for loop command. 
+ 
+Question 10
+5 / 5 pts
+What should you do after you are done reading or writing the file?
+  Close the file. 
+ 
+Question 11
+5 / 5 pts
+When a line is written to a text file
+  a trailing line break must be included. 
+ 
+Question 12
+5 / 5 pts
+How can data be written to the end of a text file?
+  By setting the mode parameter in the open statement to "a".
+ 
+Question 13
+5 / 5 pts
+A text file consists of
+  a sequence of lines. 
+ 
+Question 14
+5 / 5 pts
+What does the strip method do?
+  strip() removes unwanted characters from the beginning and end of a string. 
+ 
+Question 15
+5 / 5 pts
+If no parameter is provided to split() what happens?
+  split() defaults to using a space as the delimiter for dividing the string. 
+ 
+Question 16
+5 / 5 pts
+What does line.split(";")
+  separates the string contained in line at every occurrence of semi-colon 
+ 
+Question 17
+5 / 5 pts
+The Python split method can be used to
+  separate values in a string into individual variables 
+ 
+Question 18
+5 / 5 pts
+What does split() do?
+  split() slices a string into many pieces. 
+ 
+Question 19
+5 / 5 pts
+What does JSON stand for?
+  Javascript Object Notation 
+ 
+Question 20
+5 / 5 pts
+What is the file extension typically used with JSON files?
+  '.json' 
+
+WEEK 7
+-------------------------------------------------------------------------------------------------------- 
+
+Question 1
+5 / 5 pts
+Which of the following statements correctly shows the first line of a method definition?
+   def display(self): 
+ 
+Question 2
+5 / 5 pts
+When is the destructor method of an object called?
+  When an instance is deleted. 
+ 
+Question 3
+5 / 5 pts
+Where is the best place to initialize attributes for an instance of a class?
+  inside the __init__ method. 
+ 
+Question 4
+5 / 5 pts
+Which of the following statements creates an instance of the Rectangle class?
+  myRectangle = Rectangle() 
+ 
+Question 5
+5 / 5 pts
+How are instance attributes within an object's method referenced?
+  by using 'self' with dot notation before the instance variable's name.
+ 
+Question 6
+5 / 5 pts
+What is inheritance?
+  Inheritance allows you to create a specialized class that is based on another class. 
+ 
+Question 7
+5 / 5 pts
+Assuming myRectangle is an instance of the Rectangle class, what happens when del(myRectangle) is called?
+  Rectangle's __del__(self) method is called.
+ 
+Question 8
+5 / 5 pts
+When is the constructor for an instance of a class called?
+  when an instance of the class is instantiated. 
+ 
+Question 9
+5 / 5 pts
+The design approach in which commands operate on data, such as through function calls, but there is no direct relationship between between the data itself and the functions is called
+  Procedural Programming. 
+ 
+Question 10
+5 / 5 pts
+______ manipulate the attributes of an object.
+  methods 
+ 
+Question 11
+5 / 5 pts
+What indicates that a class definition is complete?
+  The first line of code that is not indented. 
+ 
+Question 12
+5 / 5 pts
+Which of the following statements calls the constuctor method for the Rectangle class?
+  myRectangle = Rectangle() 
+
+ 
+Question 13
+5 / 5 pts
+Which of the methods below is a destructor?
+  __del__(self) 
+ 
+Question 14
+5 / 5 pts
+Assuming that you have a Rectangle class and an instance of this class named first_rectangle, what does the following statement do?
+
+first_rectangle.width = 500
+
+  first_rectangle's width attribute is set to 500. 
+
+ 
+Question 15
+5 / 5 pts
+An object is
+  An instance of a class 
+ 
+Question 16
+5 / 5 pts
+Which of the following statements correctly shows the first line of a class definition for Rectangle?
+  class Rectangle: 
+ 
+Question 17
+5 / 5 pts
+Which of the following statements is true about “private” instance variables that cannot be accessed except from inside an object in Python. 
+  Python doesn't support "private" instance variables. 
+
+ 
+Question 18
+5 / 5 pts
+What is true about indentation for method definitions in a class?
+  The first line of the definition is indented one level more than the class statement and the remaining statements of the method definition are indented an additional level 
+ 
+Question 19
+5 / 5 pts
+Which programming design approach visualizes things with attributes and actions that can manipulate these attributes?
+  Object Oriented Design 
+ 
+Question 20
+5 / 5 pts
+Assuming mySquare is an object of the Rectangle class and has an attribute named width, which statement below sets the value of the width to 4?
+  mySquare.width = 4 
